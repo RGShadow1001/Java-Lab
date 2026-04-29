@@ -1,5 +1,5 @@
-# ☕ Java-Lab | B.Tech Year 1
-This repository contains my progress and assignments for the Java programming course during my B.Tech. It is managed remotely on an **Ubuntu Server** and synced with IntelliJ IDEA.
+# ☕ Java-Lab | Pre B.Tech Learning
+This repository contains my progress and assignments for the Java programming course before and during my B.Tech. It is managed remotely on an **Ubuntu Server** and synced with IntelliJ IDEA.
 
 ## 🚀 Learning Goals
 - [ ] Master Object-Oriented Programming (OOP)
